@@ -1,0 +1,34 @@
+cd src/schemas
+touch signUpSchema.ts verifySchema.ts signInSchema.ts acceptMessageSchema.ts messageSchema.ts
+
+cd ../..
+ls
+npm i zod // for schema validation ::  no need to check mongoose db
+
+npm install resend
+
+npm i react-email
+
+npm i bcryptjs
+
+npm i next-auth 
+
+
+npm install ai
+
+npm install ai @ai-sdk/openai zod
+
+npx shadcn@latest init
+
+npx shadcn@latest add form 
+
+ npx shadcn@latest add button
+
+npm i axios
+
+npm install usehooks-ts
+
+npx shadcn@latest add toast
+
+npx shadcn@latest add input
+
